@@ -5688,7 +5688,7 @@
 			},
 			"name": {
 				"eng": "My Apartment",
-				"trans": "Benim Dairesi"
+				"trans": "Dairem"
 			},
 			"toMainHub": {
 				"name": {
@@ -5737,7 +5737,7 @@
 		"job": {
 			"description": {
 				"eng": "[Job Hub]\r\n        Here are many shops and businesses reside. The perfect location to hone and refine your skills.",
-				"trans": "İş Merkezi\r\n        Burada birçok mağaza ve işyeri var. Yeteneklerini test etmek ve geliştirmek için mükemmel bir yer."
+				"trans": "İş Merkezi\r\n        Burada birçok mağaza ve iş yeri var. Yeteneklerini test etmek ve geliştirmek için mükemmel bir yer."
 			},
 			"name": {
 				"eng": "Shangri-La Commercial Area",
@@ -6264,7 +6264,7 @@
 		},
 		"returnToAppMessage": {
 			"eng": "Syncing with server..",
-			"trans": "Sunucu ile senkronizasyon .."
+			"trans": "Sunucu ile senkronize ediliyor.."
 		}
 	},
 	"modal": {
@@ -6277,7 +6277,7 @@
 		"chatMessage": {
 			"block": {
 				"eng": "Block",
-				"trans": "Engellek"
+				"trans": "Engelle"
 			},
 			"openBotProfileMessage": {
 				"eng": "Access denied. non-human profile detected.",
@@ -6689,12 +6689,12 @@
 					"Stay online, stay strong, and stay true to yourself."
 				],
 				"trans": [
-					"Life is tough, but you're tougher. Keep fighting.",
-					"Stay strong, stay punk, and stay alive.",
-					"Remember, your worth is not defined by your struggles.",
-					"Don't let the system bring you down, rise up and rebel.",
-					"Stay connected to your inner self, and disconnect from the noise.",
-					"Stay online, stay strong, and stay true to yourself."
+					"Hayat zor olabilir ama sen daha güçlüsün. Mücadeleye devam et.",
+					"Güçlü kal, punk kal ve hayatta kal.",
+					"Unutma, değerin mücadelelerin tarafından belirlemez",
+					"Sistemin seni ezmesine izin verme, ayağa kalk ve isyan et.",
+					"İçsel benliğinle bağlantıda kal ve gürültüden uzaklaş.",
+					"Çevrimiçi kal, güçlü kal ve kendine sadık ol."
 				]
 			},
 			"name": {
@@ -6734,10 +6734,11 @@
 					"Who needs chimney when you can just punch through the wall?"
 				],
 				"trans": [
-					"Ho ho ho, choom! Ready to trade your loot for some holiday cheer?",
-					"My eyes are up here, little man.",
-					"Ho ho ho! The Animals want to rule the streets, but they’ll never outlift me.",
-					"Ho ho hold up—do you even lift, little man?"
+					"Ho ho ho, choom! Ganimetini biraz tatil neşesiyle takas etmeye hazır mısın?",
+					"Yukarı bak ufaklık, gözlerim burada.",
+					"Ho ho ho! Animals sokağın hâkimi olmak istiyor ama kaldırabildikleri ağırlık beni geçemez",
+					"Ho ho dur bi sen gerçekten ağırlık kaldırıyor musun, ufaklık?",
+					"Duvarı yumruklayarak geçebiliyorsam bacaya ne gerek var?",
 				]
 			},
 			"name": {
@@ -6798,10 +6799,10 @@
 					"Give me your pumpkin, and I'll give you a treat!"
 				],
 				"trans": [
-					"Pumpkin is my source of power!",
-					"Check out my pumpkin costume!",
-					"Hmmmm, I wonder what's inside this pumpkin...",
-					"Give me your pumpkin, and I'll give you a treat!"
+					"Balkabağı gücümün kaynağı!",
+					"Balkabağı kostümüme bir baksana!",
+					"Hmmmm, acaba bu balkabağının içinde ne var...",
+					"Bana balkabağını ver, sana bir sürpriz vereyim!"
 				]
 			},
 			"name": {
@@ -6819,7 +6820,7 @@
 					"Welcome, our family is always excited to help you find the perfect tech gear."
 				],
 				"trans": [
-					"Welcome, our family is always excited to help you find the perfect tech gear."
+					"Hoş geldiniz, ailemiz size en uygun teknoloji ürünlerini bulmanızda yardımcı olmaktan her zaman mutluluk duyar."
 				]
 			},
 			"name": {
@@ -6845,11 +6846,11 @@
 					"Hey, choomba! Here to plan another blockbuster event? Let's dive in!"
 				],
 				"trans": [
-					"Hey choom, ready to chip in for the next 24-hour global party? We're just a few units short!",
-					"Ready to make an impact? Your contribution could launch the biggest party on the grid!",
-					"Looking to start the party? We're pooling funds now for a round-the-clock celebration.",
-					"If you’re aiming to see the city light up, help us fill the party meter. Every bit counts!",
-					"Hey, choomba! Here to plan another blockbuster event? Let's dive in!"
+					"Hey choom, 24 saatlik küresel partiye katkı yapmaya hazır mısın? Az bir birim kaldı!",
+					"Etkili olmak ister misin? Katkın, ağdaki en büyük partiyi başlatabilir!",
+					"Partiyi başlatmak mı istiyorsun? 7/24 kutlama için fonları birleştiriyoruz.",
+					"Şehri ışıl ışıl görmek istiyorsan, parti sayacını doldurmamıza yardım et. Her katkı önemli!",
+					"Hey, choomba! Yeni bir dev etkinlik mi planlıyorsun? Haydi başlayalım!"
 				]
 			},
 			"name": {
@@ -6871,11 +6872,11 @@
 					"Cyberdeck in hand, heart on sleeve? Our critters need that daily touch or they'll fade into the static."
 				],
 				"trans": [
-					"Hey, choom! Neon Paws is for the brave. These sprites need your daily grind. Ready to dive in?",
-					"Lookin' sharp, netrunner! Here, pets are more than code, they need your daily hack to thrive.",
-					"What's up, street samurai? Partner with a survivor. Without your daily deeds, they're zeroed.",
-					"Edge runner, eh? This is where tech meets heart. Ignore them, and they vanish into the net. Daily care, got it?",
-					"Cyberdeck in hand, heart on sleeve? Our critters need that daily touch or they'll fade into the static."
+					"Hey, choom! Neon Paws cesurlar için. Bu sprite’lar günlük emeğine muhtaç. Dalışa hazır mısın?",
+					"Şık görünüyorsun, netrunner! Burada evcil hayvanlar sadece kod değil, hayatta kalmak için günlük hack’ine ihtiyaçları var.",
+					"Naber, sokak samurayı? Bir hayatta kalanla ortak ol. Günlük katkın olmadan, sıfırlanırlar.",
+					"Edge runner, ha? Burası teknolojinin kalple buluştuğu yer. Onları görmezden gelirsen, net’te kaybolurlar. Günlük bakım, tamam mı?",
+					"Cyberdeck elinde, yüreğin açıkta mı? Bu yaratıkların her gün ilgiye ihtiyacı var, yoksa statik içinde yok olup giderler."
 				]
 			},
 			"name": {
@@ -8550,7 +8551,7 @@
 		"announcement": {
 			"receiveItem": {
 				"eng": "🎉Congratulation! ${player} received ${item}!",
-				"trans": "🎉Congratülasyon! ${player} ${item}!",
+				"trans": "🎉Tebrikler! ${player} ${item}!",
 				"vars": [
 					"player",
 					"item"
@@ -9096,7 +9097,7 @@
 		"rngInterferer": {
 			"description": {
 				"eng": "Additional epic drop chance from containers",
-				"trans": "Sandıkalrdan epik eşya düşme şansı"
+				"trans": "Sandıklardan epik eşya düşme şansı"
 			}
 		},
 		"shieldMultiplier": {
@@ -10083,7 +10084,7 @@
 				"tertiary": {
 					"title": {
 						"eng": "Destruct.",
-						"trans": "Yokedici."
+						"trans": "Yok et."
 					}
 				}
 			}
@@ -10422,7 +10423,7 @@
 		"confirmModal": {
 			"defaultConfirm": {
 				"eng": "Confirm",
-				"trans": "Onaylamak"
+				"trans": "Onayla"
 			}
 		},
 		"cosmeticSetting": {
